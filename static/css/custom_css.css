@@ -1,0 +1,236 @@
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  text-align: center;
+  /* height: 300px; Should be removed. Only for demonstration */
+}
+  
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.head-data-card {
+  background-color: dodgerblue;
+  text-align: center;
+  color: black;
+  padding: 1rem;
+  height: 4rem;
+}
+
+.head-data-card h2.case-number {
+  padding: 0;
+  margin:0;
+}
+
+.head-data-cards {
+  /* background-color: green; */
+  max-width: 1200px;
+  height:auto;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(7em, 1fr));
+}
+
+.head-data-cards .confirmed {
+  background-color: #ffe0e6;
+  color: #ff1b4a;
+  padding: 0;
+  /* margin: 0; */
+}
+.head-data-cards .active {
+  background-color: #eff7ff;
+  color: #2990ff;
+  padding: 0;
+  /* margin: 0; */
+}
+.head-data-cards .recovered {
+  background-color: #e4f4e8;
+  color: #42b25b;
+  padding: 0;
+  /* margin: 0;  */
+}
+.head-data-cards .deceased {
+  background-color: #f6f6f7;
+  color: #6c757d;
+  padding: 0;
+  /* margin: 0; */
+}
+
+.cards {
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.card {
+  border-color:white;
+  background-color: None;
+  color: #6c757d;
+  padding-top: 0;
+  padding-bottom: 0;
+  height: auto;
+}
+
+
+.cards h3 {
+  font-weight: 600;
+}
+
+.dis-data {
+  padding-bottom: 0; 
+  display:grid; 
+  grid-gap: 0.5rem 1rem;
+  grid-template-columns: auto auto; 
+  grid-row: auto auto;
+}
+
+.cards .dis-data h4.confirmed {
+  color: #dc3545;
+  padding: 0;
+  margin: 0;
+}
+.cards .dis-data h4.active {
+  color: #007bff;
+  padding: 0;
+  margin: 0;
+}
+.cards .dis-data h4.recovered {
+  color: #28a745;
+  padding: 0;
+  margin: 0;
+}
+.cards .dis-data h4.deceased {
+  color: #6c757d;
+  padding: 0;
+  margin: 0;
+}
+
+.dis-data-name {
+    padding-top: 0 !important;
+}
+
+.legends{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 2em;
+  justify-content: center;
+}
+
+
+.Eb8Pib{
+  font-family: arial,sans-serif;
+  color: #222;
+  font-weight: normal;
+  font-size: 14px;
+  padding: 16px 16px 0;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.Eq0l7e{
+  font-family: arial,sans-serif;
+  color: #222;
+  font-weight: normal;
+  font-size: 14px;
+  height: 77px;
+  width: 55px;
+  margin: -4px auto -16px;
+}
+
+.gVDAsd{
+  font-family: arial,sans-serif;
+  color: #222;
+  font-weight: normal;
+  font-size: 14px;
+  width: 64px;
+  margin: 8px 0;
+}
+
+.Eq0l7e{
+  font-family: arial,sans-serif;
+  color: #222;
+  font-weight: normal;
+  font-size: 14px;
+  height: 77px;
+  width: 55px;
+  margin: -4px auto -16px;
+}
+
+.EdNVSd{
+  color: #222;
+  font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  text-align: center;
+}
+
+.iqlyj{
+  font-family: arial,sans-serif;
+  color: #222;
+  font-weight: normal;
+  font-size: 14px;
+  border: 0;
+  border-bottom: 1px solid #ebebeb;
+  margin: 0;
+  margin-top: 16px;
+}
+
+.f3ZnDf{
+  font-family: arial,sans-serif;
+  color: #222;
+  font-weight: normal;
+  font-size: 14px;
+  display: inline-block;
+}
+
+.KRQ2Ab{
+  font-family: arial,sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  /* border: 1px solid #DFE1E5; */
+  padding: 8px 16px 8px 12px;
+  height: 20px;
+  line-height: 20px;
+  color: #609;
+  cursor: pointer;
+  outline: 0;
+  text-decoration: none;
+}
+
+.C8rbpf{
+  font-family: arial,sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+  cursor: pointer;
+  display: inline-block;
+  fill: currentColor;
+  height: 24px;
+  line-height: 24px;
+  position: relative;
+  width: 24px;
+  margin-right: 12px;
+  flex: none;
+  color: #4285f4;
+}
+
+.HRfe0e{
+  font-family: arial,sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  cursor: pointer;
+  color: #222;
+}
