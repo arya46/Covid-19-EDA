@@ -112,11 +112,10 @@ def countrywise_focus_load_data(df_confirmed, df_deaths, df_recovered, all_dates
 # Streamlit encourages well-structured code, like starting execution in a main() function.
 def main(): 
 
-    with st.spinner('Starting the app, please wait...'):
-        df_confirmed, df_deaths, df_recovered, \
-            owid_covid_data, cases_ts, covidIN_statewise_test, \
-                covidIN_state_wise, covidIN_state_wise_daily, covidIN_districtwise_current, \
-                    all_dates  = load_all_datas(PATH)
+    df_confirmed, df_deaths, df_recovered, \
+        owid_covid_data, cases_ts, covidIN_statewise_test, \
+            covidIN_state_wise, covidIN_state_wise_daily, covidIN_districtwise_current, \
+                all_dates  = load_all_datas(PATH)
     
 
     st.sidebar.title("Menu")
@@ -125,8 +124,7 @@ def main():
 
     if app_mode == "Home":
 
-        with st.spinner('Loading data, please wait...'):
-            df_global = global_focus_load_data(df_confirmed, df_deaths, df_recovered, all_dates)
+        df_global = global_focus_load_data(df_confirmed, df_deaths, df_recovered, all_dates)
 
         st.title('COVID-19 Analysis and Visualization')
         st.markdown("<hr style='margin: 0'>", unsafe_allow_html=True)
@@ -192,12 +190,11 @@ def main():
 
     elif app_mode == "Country Wise Analysis":
 
-        with st.spinner('Loading data, please wait...'):
-            df_global = global_focus_load_data(df_confirmed, df_deaths, df_recovered, all_dates)
-            df_confirmed_countrywise, \
-                df_deaths_countrywise, \
-                    df_recovered_countrywise, \
-                        df_active_countrywise = countrywise_focus_load_data(df_confirmed, df_deaths, df_recovered, all_dates)
+        df_global = global_focus_load_data(df_confirmed, df_deaths, df_recovered, all_dates)
+        df_confirmed_countrywise, \
+            df_deaths_countrywise, \
+                df_recovered_countrywise, \
+                    df_active_countrywise = countrywise_focus_load_data(df_confirmed, df_deaths, df_recovered, all_dates)
 
         st.title("COVID-19: Country Wise")
         st.markdown("<hr style='margin: 0'>", unsafe_allow_html=True)
