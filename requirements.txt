@@ -6,3 +6,4 @@ numpy==1.17.4
 plotly==4.8.1
 download==0.3.5
 streamlit==0.62.0
+folium==0.11.0
