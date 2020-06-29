@@ -85,10 +85,10 @@
 }
 
 .dis-data {
-  padding-bottom: 0; 
-  display:grid; 
+  padding-bottom: 0;
+  display:grid;
   grid-gap: 0.5rem 1rem;
-  grid-template-columns: auto auto; 
+  grid-template-columns: auto auto;
   grid-row: auto auto;
 }
 
@@ -153,16 +153,6 @@
   font-size: 14px;
   width: 64px;
   margin: 8px 0;
-}
-
-.Eq0l7e{
-  font-family: arial,sans-serif;
-  color: #222;
-  font-weight: normal;
-  font-size: 14px;
-  height: 77px;
-  width: 55px;
-  margin: -4px auto -16px;
 }
 
 .EdNVSd{
