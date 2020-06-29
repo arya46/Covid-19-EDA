@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: Run Python Script
+      - name: Load Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.7
@@ -24,3 +24,9 @@ jobs:
           pip install download
           python update_files.py
           echo "the job completed"
+      - name: Push
+        run: |
+          bash ./main.sh
+          echo "push done"
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
