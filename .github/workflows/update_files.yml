@@ -19,14 +19,27 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.7
+          
       - name: Run Script
         run: |
           pip install download
           python update_files.py
           echo "the job completed"
-      - name: Push
+
+      - name: Push to Github
         run: |
           bash ./main.sh
           echo "push done"
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+    
+      - name: Login to Heroku Container registry
+        run: heroku container:login
+        env:
+          HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+      
+      - name: Build and push
+        run: heroku container:push -a ${{ secrets.HEROKU_APP_NAME }} web
+        env:
+          HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+
