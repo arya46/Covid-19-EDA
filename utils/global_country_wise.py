@@ -59,7 +59,7 @@ def plot_country_wise_latest_cases(df, num_top_countries, all_dates, label):
             df_temp[all_dates[-1]],
             color=colour[label])
     plt.xticks(rotation=50)
-    # plt.yticks(ticks=[500000, 1000000, 1500000, 2000000, 2500000], labels=['5 Lakhs', '10 Lakhs', '15 Lakhs', '20 Lakhs', '25 Lakhs'])
+    plt.yticks(ticks=[500000, 1000000, 1500000, 2000000, 2500000], labels=['5 Lakhs', '10 Lakhs', '15 Lakhs', '20 Lakhs', '25 Lakhs'])
     plt.ylabel("# of {} cases".format(label))
     plt.grid(alpha=0.3)
     plt.tight_layout()

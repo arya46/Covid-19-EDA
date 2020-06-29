@@ -179,7 +179,7 @@ def main():
         )
 
         st.write('    ')
-        st.write('Lets look at how the cases are growing over time:')
+        st.header('Lets look at how the cases are growing over time:')
         st.plotly_chart(plot_global_trend_CAD(global_deaths_trend, global_active_trend, global_confirmed_trend, all_dates),
                         use_container_width=True)
         # ------------------ global trend ends here ------------------#
@@ -340,7 +340,7 @@ def main():
         st.plotly_chart(plot_india_trend_CAD(cases_ts), use_container_width=True)
         # ------------------ india all cases trend ends here ------------------#
 
-        st.markdown("<h3 style='font-weight:400'>Let's look at the daily cases:</h3>", unsafe_allow_html=True)
+        st.header("Let's look at the trend for daily new cases:")
         # ------------------ daily confirmed cases starts here ------------------#
         st.plotly_chart(plot_india_daily_confirmed(cases_ts), use_container_width=True)
         # ------------------ daily confirmed ends here ------------------#
@@ -356,14 +356,16 @@ def main():
         # ------------------ testing in India starts here ------------------#
         st.header('Are we testing enough?')
         st.plotly_chart(plot_india_testing_over_time(owid_covid_data), use_container_width=True)
+        st.write('- The number of testing is increasing everyday. This is a good sign. Testing is very important\
+            to know and understand the spread of the virus.')
         # ------------------ testing in India ends here ------------------#
 
         # ------------------ testing effectivestarts here ------------------#
         st.header('How effective are these tests?')
         chart, tpc_num = plot_india_test_per_confirmed(owid_covid_data)
         st.plotly_chart(chart, use_container_width=True)
-        st.write(f'As the number of testing has increased, the **"tests conducted per new confirmed"** \
-            rate is decreasing every other day. This means that the chances of a test being positive is increasing.')
+        st.write(f'- As the number of testing has increased, the **"tests conducted per new confirmed"** \
+            rate is decreasing every other day. This means that, most of the tests turns out to be positive.')
 
         st.write(f'As of **{datetime.strptime(all_dates[-1], "%m/%d/%y").strftime("%d %b %Y")}**, a new case is confirmed after\
             testing **{int(tpc_num)}** samples.')
@@ -385,8 +387,7 @@ def main():
         # ------------------ india state wise chloropeth ends here ------------------#
 
         # ------------------ india state wise trend starts here ------------------#
-        st.markdown("<h3 style='font-weight:400'>Let's look at how COVID-19 cases has spread in different\
-             states over time:</h3>", unsafe_allow_html=True)
+        st.header("Let's look at how COVID-19 cases has spread in different states over time:")
 
         def state_label_mapper(key):
             return states_mapper[key]
@@ -398,12 +399,13 @@ def main():
         # ------------------ india state wise trend ends here ------------------#
 
         # ------------------ india state wise contribution starts here ------------------#
+        st.header('Which states have the most number of cases?')
         num_state_to_display = st.slider("Select top number of states:", min_value=6, max_value=15, value=6, step=1, key='state_contrib')
         st.pyplot(plot_india_state_wise_contribution(num_state_to_display, covidIN_state_wise))
         # ------------------ india state wise contribution ends here ------------------#
 
         # ------------------ india district wise cases starts here ------------------#
-        st.markdown("<h3 style='font-weight:400'>Current districtwise cases for each state:</h3>", unsafe_allow_html=True)
+        st.header("Current districtwise cases for each state:")
 
         st.markdown('<style>' + open('static/css/custom_css.css').read() + '</style>', unsafe_allow_html=True)
         state_key2 = st.selectbox('State', list(states_mapper.values()), index=3, key='district_wise')
