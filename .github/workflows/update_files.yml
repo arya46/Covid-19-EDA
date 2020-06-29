@@ -1,0 +1,26 @@
+name: files update workflow
+
+on:
+  schedule:
+    # every 10 minutes the job will run
+    - cron: "*/10 * * * *"
+  push:
+    branches:
+      - master
+
+jobs:
+  update_files:
+    runs-on: ubuntu-latest
+    timeout-minutes: 9
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run Python Script
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+      - name: Run Script
+        run: |
+          pip install download
+          python update_files.py
+          echo "the job completed"
