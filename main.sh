@@ -15,7 +15,7 @@ then
     set -e
     git commit -am "data updated on - $(date)"
     git remote set-url "$remote_name" "$repo_uri" # includes access token
-    git push -u "$remote_name" "$gh_pages_branch"
+    git push -u "$remote_name" "$main_branch"
 else
     set -e
     echo "No changes since last run"
