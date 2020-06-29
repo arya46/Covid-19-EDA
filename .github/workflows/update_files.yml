@@ -29,7 +29,6 @@ jobs:
       - name: Push to Github
         run: |
           bash ./main.sh
-          echo "push done"
+          echo "CI finished"
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-          HEROKU_APP_NAME: ${{secrets.HEROKU_APP_NAME}}
