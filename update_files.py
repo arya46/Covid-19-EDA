@@ -35,12 +35,12 @@ def download_files():
 
     print('Downloading Files Complete.')
 
-sched = BackgroundScheduler()
+sched = BlockingScheduler()
 
 # @sched.scheduled_job('cron', day_of_week='mon-sun', hour=00)
 # @sched.scheduled_job('interval', seconds=120)
 # def timed_job():
 #     print('This job is run every three minutes.')
 
-sched.add_job(download_files, 'cron', day_of_week='mon-sun', hour=5)
+sched.add_job(download_files, 'cron', day_of_week='mon-sun', hour='5')
 sched.start()
