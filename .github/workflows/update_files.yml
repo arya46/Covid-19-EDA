@@ -32,14 +32,4 @@ jobs:
           echo "push done"
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-    
-      - name: Login to Heroku Container registry
-        run: heroku container:login
-        env:
-          HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
-      
-      - name: Build and push
-        run: heroku container:push -a ${{ secrets.HEROKU_APP_NAME }} web
-        env:
-          HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
-
+          HEROKU_APP_NAME: ${{secrets.HEROKU_APP_NAME}}
