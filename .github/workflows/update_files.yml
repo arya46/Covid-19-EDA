@@ -2,8 +2,8 @@ name: files update workflow
 
 on:
   schedule:
-    # every 10 minutes the job will run
-    - cron: "*/10 * * * *"
+    # every day at 05:30 UTC the job will run
+    - cron: "30 5 * * *"
   push:
     branches:
       - master
