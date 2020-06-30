@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,568643,335937,16919,215727,30/06/2020 18:04:13,60,TT,1107,666,15,
+Total,568643,335937,16919,215727,30/06/2020 18:14:13,60,TT,1107,666,15,
 Maharashtra,169883,88960,7610,73298,29/06/2020 19:54:14,15,MH,0,0,0,"15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts
 [June 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [June 20]: 69 deceased cases have been reduced based on state bulletin.
@@ -14,7 +14,7 @@ Uttar Pradesh,22828,15506,672,6650,29/06/2020 21:55:14,0,UP,0,0,0,
 Rajasthan,17754,13948,409,3397,30/06/2020 11:47:15,0,RJ,94,27,4,
 West Bengal,17907,11719,653,5535,29/06/2020 20:16:16,0,WB,0,0,0,
 Madhya Pradesh,13370,10199,564,2607,29/06/2020 19:16:17,0,MP,0,0,0,
-Haryana,14317,9524,232,4561,30/06/2020 18:04:16,0,HR,107,22,0,
+Haryana,14317,9524,232,4561,30/06/2020 18:14:16,0,HR,107,22,0,
 State Unassigned,7004,0,0,7004,30/06/2020 09:56:15,0,UN,-281,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 281 cases were decreased in this category today by MoHFW. We have removed these cases from this category
 Karnataka,14295,7685,226,6380,29/06/2020 21:38:16,4,KA,0,0,0,4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases
 Andhra Pradesh,14595,6511,187,7897,30/06/2020 12:56:16,0,AP,704,279,7,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
