@@ -9,7 +9,7 @@ git config user.email "${GITHUB_ACTOR}@bots.github.com"
 
 echo "start of task"
 
-echo "data updated on - $(date)" >> ./.logs/log
+echo "data updated on - $(date)" >> ./.logs/log.txt
 
 git add .
 set +e  # Grep succeeds with nonzero exit codes to show results.
