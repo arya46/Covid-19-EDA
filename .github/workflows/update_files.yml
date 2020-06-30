@@ -43,5 +43,6 @@ jobs:
               password ${{secrets.HEROKU_API_KEY}}
           EOF
           heroku git:remote -a ${{secrets.HEROKU_APP_NAME}}
-          git push heroku HEAD:refs/heads/master
+          git pull
+          git push heroku master
           echo "Successfully Deployed"
