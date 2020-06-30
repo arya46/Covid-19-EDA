@@ -18,7 +18,7 @@ then
     git commit -am "data updated on - $(date)"
     git remote set-url "$remote_name" "$repo_uri"
     git push -u "$remote_name" "$main_branch"
-    echo "data updated on - $(date)" >> .logs/log.txt
+    echo "data updated on - $(date)" >> ./.logs/log.txt
 else
     set -e
     echo "No changes since last run"
