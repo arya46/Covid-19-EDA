@@ -31,17 +31,3 @@ jobs:
           bash ./main.sh
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-      
-      - name: Push to Heroku
-        run: |+
-          cat >~/.netrc <<EOF
-          machine api.heroku.com
-              login ${{secrets.HEROKU_EMAIL}}
-              password ${{secrets.HEROKU_API_KEY}}
-          machine git.heroku.com
-              login ${{secrets.HEROKU_EMAIL}}
-              password ${{secrets.HEROKU_API_KEY}}
-          EOF
-          heroku git:remote -a ${{secrets.HEROKU_APP_NAME}}
-          git push heroku master
-          echo "Successfully Deployed"
