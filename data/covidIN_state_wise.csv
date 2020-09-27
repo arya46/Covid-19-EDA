@@ -1,51 +1,51 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,5904392,4849114,93424,961020,26/09/2020 10:45:45,834,TT,2566,2787,14,
-Maharashtra,1300757,992806,34761,272775,25/09/2020 22:59:41,415,MH,0,0,0,"[Sep 9] :239 cases have been removed from the progressive figures owing to the removal of duplicates and change of addresses as per the original residence,
+Total,5990581,4938688,94534,956511,27/09/2020 04:57:47,848,TT,0,0,0,
+Maharashtra,1321176,1016450,35191,269119,26/09/2020 22:14:51,416,MH,0,0,0,"[Sep 9] :239 cases have been removed from the progressive figures owing to the removal of duplicates and change of addresses as per the original residence,
 [Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally
 [Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.
 [Jun 20] : 69 deceased cases have been reduced based on state bulletin."
-Andhra Pradesh,661458,588169,5606,67683,25/09/2020 19:49:47,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
-Tamil Nadu,569370,513836,9148,46386,25/09/2020 18:40:40,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Andhra Pradesh,668751,597294,5663,65794,26/09/2020 19:39:49,0,AP,0,0,0,"Total includes patients from other states and a new category ""Foreign Evacuees"" which is now reported in AP bulletin."
+Tamil Nadu,575017,519448,9233,46336,26/09/2020 19:50:49,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Karnataka,557212,450302,8417,98474,25/09/2020 22:11:41,19,KA,0,0,0,
-Uttar Pradesh,378533,313686,5450,59397,25/09/2020 19:17:41,0,UP,0,0,0,
-Delhi,264450,228436,5147,30867,25/09/2020 20:27:40,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
+Karnataka,566023,455719,8503,101782,26/09/2020 20:59:48,19,KA,0,0,0,
+Uttar Pradesh,382835,320232,5517,57086,26/09/2020 20:10:50,0,UP,0,0,0,
+Delhi,267822,232912,5193,29717,27/09/2020 00:02:59,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change.
 [June 16]: 344 deceased cases have been retroactively added to DL bulletin."
-West Bengal,241059,211020,4665,25374,25/09/2020 20:11:42,0,WB,0,0,0,
-Odisha,201096,165432,820,34844,25/09/2020 21:06:42,0,OR,0,0,0,"[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count
+West Bengal,244240,213975,4721,25544,26/09/2020 20:54:56,0,WB,0,0,0,
+Odisha,205452,170193,836,34423,26/09/2020 22:18:52,0,OR,0,0,0,"[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count
 [June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard"
-Telangana,183866,152441,1091,30334,26/09/2020 10:34:46,0,TG,2239,2281,11,"[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
+Telangana,183866,152441,1091,30334,26/09/2020 10:34:46,0,TG,0,0,0,"[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
-Bihar,175898,161510,881,13506,25/09/2020 21:06:45,1,BR,0,0,0,
-Assam,167374,136712,625,30034,25/09/2020 23:23:40,3,AS,0,0,0,
-Kerala,160935,111327,636,48893,25/09/2020 20:27:44,79,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's deceased tally.
+Bihar,177355,163132,886,13336,26/09/2020 19:50:52,1,BR,0,0,0,
+Assam,169110,138307,638,30162,26/09/2020 23:46:03,3,AS,0,0,0,
+Kerala,167940,114526,657,52677,26/09/2020 19:25:50,80,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 One patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.
-In total 79 such cases have been reduced from active count"
-Gujarat,130391,110590,3394,16407,25/09/2020 20:08:48,0,GJ,0,0,0,
-Rajasthan,124730,104288,1412,19030,25/09/2020 19:49:58,0,RJ,0,0,0,
-Haryana,120578,101273,1273,18032,25/09/2020 20:11:45,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
-Madhya Pradesh,117588,93238,2152,22198,25/09/2020 22:20:40,0,MP,0,0,0,
-Punjab,107096,84025,3134,19937,25/09/2020 22:53:47,0,PB,0,0,0,
-Chhattisgarh,98565,66860,777,30928,26/09/2020 00:17:42,0,CT,0,0,0,[Sep 9]:57 Deceased Cases are added from Backlog
-Jharkhand,77709,64515,661,12533,26/09/2020 00:19:40,0,JH,0,0,0,
-Jammu and Kashmir,69832,49557,1105,19170,25/09/2020 19:37:48,0,JK,0,0,0,
-Uttarakhand,45332,33642,555,10934,25/09/2020 22:11:46,201,UT,0,0,0,
-Goa,31071,25071,386,5614,25/09/2020 21:06:47,0,GA,0,0,0,
-Puducherry,25489,19781,494,5214,25/09/2020 21:06:49,0,PY,0,0,0,
-Tripura,24405,17969,265,6148,26/09/2020 10:45:49,23,TR,278,505,3,"[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
-Himachal Pradesh,13679,9526,152,3976,25/09/2020 22:53:52,25,HP,0,0,0,
-Chandigarh,11212,8677,145,2390,25/09/2020 20:11:48,0,CH,0,0,0,
-Manipur,9791,7602,63,2126,25/09/2020 22:11:48,0,MN,0,0,0,
-Arunachal Pradesh,8671,6230,14,2427,26/09/2020 08:27:46,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
-Nagaland,5768,4693,11,1027,25/09/2020 18:53:42,37,NL,0,0,0,
-Meghalaya,5158,3343,43,1772,26/09/2020 00:31:40,0,ML,0,0,0,[June 17]: One case was identified to be false positive and has been removed from the confirmed cases by ML authorities.
-Ladakh,4025,2971,56,998,26/09/2020 00:31:42,0,LA,0,0,0,[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards
-Andaman and Nicobar Islands,3759,3528,52,179,25/09/2020 23:37:42,0,AN,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,2993,2775,2,185,25/09/2020 18:22:49,31,DN,0,0,0,
-Sikkim,2707,1994,31,682,25/09/2020 23:37:43,0,SK,0,0,0,
-Mizoram,1835,1289,0,546,26/09/2020 10:34:51,0,MZ,49,1,0,
+In total 80 such cases have been reduced from active count"
+Gujarat,131808,112009,3407,16392,26/09/2020 20:10:53,0,GJ,0,0,0,
+Rajasthan,126775,105994,1426,19355,26/09/2020 22:58:02,0,RJ,0,0,0,
+Haryana,122267,103827,1291,17149,26/09/2020 20:55:00,0,HR,0,0,0,[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.
+Madhya Pradesh,119899,95490,2181,22228,26/09/2020 20:59:51,0,MP,0,0,0,
+Punjab,108684,86013,3188,19483,26/09/2020 22:14:59,0,PB,0,0,0,
+Chhattisgarh,102461,70955,817,30689,27/09/2020 00:44:51,0,CT,0,0,0,[Sep 9]:57 Deceased Cases are added from Backlog
+Jharkhand,78935,65839,670,12426,26/09/2020 22:15:01,0,JH,0,0,0,
+Jammu and Kashmir,71049,51494,1125,18430,26/09/2020 20:07:52,0,JK,0,0,0,
+Uttarakhand,46281,34649,566,10856,26/09/2020 20:29:54,210,UT,0,0,0,
+Goa,31574,25759,391,5424,26/09/2020 20:25:51,0,GA,0,0,0,
+Puducherry,26032,20205,500,5327,26/09/2020 22:19:04,0,PY,0,0,0,
+Tripura,24405,17969,265,6148,26/09/2020 10:45:49,23,TR,0,0,0,"[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
+Himachal Pradesh,13996,9710,159,4104,26/09/2020 22:15:07,23,HP,0,0,0,
+Chandigarh,11380,8937,145,2298,26/09/2020 22:15:10,0,CH,0,0,0,
+Manipur,10051,7681,64,2306,26/09/2020 20:55:06,0,MN,0,0,0,
+Arunachal Pradesh,8869,6397,14,2458,26/09/2020 23:18:52,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
+Nagaland,5862,4782,11,1027,26/09/2020 20:49:59,42,NL,0,0,0,
+Meghalaya,5212,3654,43,1515,26/09/2020 23:18:56,0,ML,0,0,0,[June 17]: One case was identified to be false positive and has been removed from the confirmed cases by ML authorities.
+Ladakh,4093,3018,57,1018,27/09/2020 04:57:50,0,LA,0,0,0,[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards
+Andaman and Nicobar Islands,3774,3551,52,171,26/09/2020 22:58:05,0,AN,0,0,0,
+Dadra and Nagar Haveli and Daman and Diu,3000,2794,2,173,26/09/2020 22:15:13,31,DN,0,0,0,
+Sikkim,2752,2016,31,705,26/09/2020 22:15:15,0,SK,0,0,0,
+Mizoram,1835,1316,0,519,26/09/2020 20:59:55,0,MZ,0,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
