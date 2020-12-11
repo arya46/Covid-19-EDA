@@ -1,46 +1,46 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,Migrated_Other,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,9767640,9252580,141810,370784,10/12/2020 10:39:07,2466,TT,0,0,0,
-Maharashtra,1864348,1742191,47902,73166,09/12/2020 20:52:02,1089,MH,0,0,0,
-Karnataka,896549,861575,11899,23056,10/12/2020 08:22:11,19,KA,0,0,0,
-Andhra Pradesh,873457,861153,7045,5259,09/12/2020 21:37:02,0,AP,0,0,0,
-Tamil Nadu,794020,771693,11836,10491,09/12/2020 22:01:06,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
+Total,9797065,9290300,142222,362053,11/12/2020 11:00:21,2490,TT,0,0,0,
+Maharashtra,1868172,1747199,47972,71910,10/12/2020 22:55:03,1091,MH,0,0,0,
+Karnataka,897801,866664,11912,19206,10/12/2020 22:55:05,19,KA,0,0,0,
+Andhra Pradesh,873995,861711,7047,5237,10/12/2020 19:11:12,0,AP,0,0,0,
+Tamil Nadu,795240,772995,11853,10392,10/12/2020 22:55:07,0,TN,0,0,0,"[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.
 2 deaths cross notified to other states from Chennai and Coimbatore.
 1 patient died after turning negative for infection in Chengalpattu.
 These cases have been added to TN deceased tally"
-Uttar Pradesh,559499,530854,7987,20658,10/12/2020 09:43:08,0,UP,0,0,0,
-Kerala,649572,586998,2508,59939,09/12/2020 20:19:07,127,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's deceased tally.
+Uttar Pradesh,561161,532349,8011,20801,11/12/2020 07:49:16,0,UP,0,0,0,
+Kerala,654042,591845,2534,59536,10/12/2020 19:59:05,127,KL,0,0,0,"Mahe native who expired in Kannur included in Kerala's deceased tally.
 Some non-covid deaths have also been reported in the bulletin.
 These have been reduced from active count"
-Delhi,599575,569216,9813,20546,09/12/2020 19:08:01,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change."
-West Bengal,510951,478434,8867,23650,09/12/2020 20:52:04,0,WB,0,0,0,
-Odisha,322299,317412,1842,3045,09/12/2020 21:37:10,0,OR,0,0,0,[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count
-Telangana,275261,266120,1480,7661,09/12/2020 16:22:07,0,TG,0,0,0,"[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
+Delhi,601150,572523,9874,18753,10/12/2020 19:59:08,0,DL,0,0,0,"[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : ""Reconciled with ICMR figures"". We have made the same change."
+West Bengal,513752,481385,8916,23451,10/12/2020 22:55:10,0,WB,0,0,0,
+Odisha,322642,317870,1847,2925,10/12/2020 20:39:06,0,OR,0,0,0,[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count
+Telangana,275904,266925,1482,7497,10/12/2020 11:32:15,0,TG,0,0,0,"[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.
 --
 District-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin"
-Bihar,240939,234498,1303,5137,09/12/2020 19:21:04,1,BR,0,0,0,
-Rajasthan,285627,263350,2485,19792,09/12/2020 19:21:06,0,RJ,0,0,0,
-Assam,214165,209622,998,3542,09/12/2020 21:19:05,3,AS,0,0,0,
-Chhattisgarh,251120,228304,3038,19778,09/12/2020 21:35:03,0,CT,0,0,0,
-Haryana,248079,233696,2650,11733,09/12/2020 20:52:17,0,HR,0,0,0,
-Gujarat,222811,204761,4123,13927,09/12/2020 21:35:05,0,GJ,0,0,0,
-Madhya Pradesh,218574,201987,3366,13221,10/12/2020 09:43:11,0,MP,0,0,0,[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals
-Punjab,157928,145623,4980,7325,10/12/2020 10:39:10,0,PB,0,0,0,
-Jharkhand,110830,108100,991,1739,09/12/2020 22:37:03,0,JH,0,0,0,
-Jammu and Kashmir,114407,107624,1767,5016,09/12/2020 19:21:09,0,JK,0,0,0,
-Uttarakhand,79656,71966,1320,5456,09/12/2020 22:52:04,914,UT,0,0,0,"[Oct 30]: Metric of capturing the testing data has switched to ""Samples Tested"" from ""Samples Collected"""
-Goa,49036,47056,703,1277,09/12/2020 19:21:12,0,GA,0,0,0,
-Puducherry,37339,36354,615,370,09/12/2020 20:52:19,0,PY,0,0,0,
-Tripura,32942,32146,370,403,09/12/2020 16:22:10,23,TR,0,0,0,"[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
-Himachal Pradesh,46930,38656,755,7475,10/12/2020 10:01:09,44,HP,0,0,0,
-Manipur,26534,23301,318,2915,09/12/2020 22:37:07,0,MN,0,0,0,
-Arunachal Pradesh,16461,15697,55,709,10/12/2020 08:22:13,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
-Chandigarh,18322,17128,297,897,09/12/2020 20:52:21,0,CH,0,0,0,
-Meghalaya,12511,11855,122,534,10/12/2020 08:22:16,0,ML,0,0,0,
-Nagaland,11508,10728,67,589,09/12/2020 22:01:12,124,NL,0,0,0,
-Ladakh,9045,8102,122,821,09/12/2020 23:58:10,0,LA,0,0,0,
-Andaman and Nicobar Islands,4783,4647,61,75,09/12/2020 23:30:14,0,AN,0,0,0,
-Sikkim,5237,4658,117,369,09/12/2020 22:52:07,93,SK,0,0,0,
-Dadra and Nagar Haveli and Daman and Diu,3348,3293,2,24,09/12/2020 22:01:14,29,DN,0,0,0,
-Mizoram,3977,3782,6,189,09/12/2020 21:37:15,0,MZ,0,0,0,
+Bihar,241534,234940,1307,5286,10/12/2020 19:59:09,1,BR,0,0,0,
+Rajasthan,287219,265689,2500,19030,10/12/2020 19:59:10,0,RJ,0,0,0,
+Assam,214305,209787,999,3516,10/12/2020 21:17:03,3,AS,0,0,0,
+Chhattisgarh,252638,230238,3054,19346,10/12/2020 21:39:05,0,CT,0,0,0,
+Haryana,249329,235197,2676,11456,10/12/2020 20:49:06,0,HR,0,0,0,
+Gujarat,224081,206226,4135,13720,10/12/2020 21:39:07,0,GJ,0,0,0,
+Madhya Pradesh,219893,203294,3373,13226,11/12/2020 03:44:05,0,MP,0,0,0,[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals
+Punjab,158556,146126,5007,7423,10/12/2020 22:55:12,0,PB,0,0,0,
+Jharkhand,111003,108320,993,1690,10/12/2020 22:55:13,0,JH,0,0,0,
+Jammu and Kashmir,114773,108150,1775,4848,10/12/2020 19:11:15,0,JK,0,0,0,
+Uttarakhand,80486,72479,1332,5742,10/12/2020 20:49:08,933,UT,0,0,0,"[Oct 30]: Metric of capturing the testing data has switched to ""Samples Tested"" from ""Samples Collected"""
+Goa,49131,47215,703,1213,10/12/2020 19:59:12,0,GA,0,0,0,
+Puducherry,37363,36372,617,374,10/12/2020 19:11:17,0,PY,0,0,0,
+Tripura,32973,32181,370,399,10/12/2020 19:11:19,23,TR,0,0,0,"[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
+Himachal Pradesh,47703,39031,763,7865,10/12/2020 23:17:05,44,HP,0,0,0,
+Manipur,26685,23397,318,2970,10/12/2020 20:49:10,0,MN,0,0,0,
+Arunachal Pradesh,16479,15739,55,685,10/12/2020 21:39:10,0,AR,0,0,0,[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.
+Chandigarh,18410,17231,298,881,10/12/2020 20:49:11,0,CH,0,0,0,
+Meghalaya,12586,11883,123,580,11/12/2020 03:52:08,0,ML,0,0,0,
+Nagaland,11602,10746,68,663,10/12/2020 20:19:07,125,NL,0,0,0,
+Ladakh,9071,8172,122,777,11/12/2020 11:00:24,0,LA,0,0,0,
+Andaman and Nicobar Islands,4791,4652,61,78,10/12/2020 22:55:16,0,AN,0,0,0,
+Sikkim,5263,4685,117,366,11/12/2020 11:00:26,95,SK,0,0,0,
+Dadra and Nagar Haveli and Daman and Diu,3348,3294,2,23,10/12/2020 11:49:09,29,DN,0,0,0,
+Mizoram,3984,3790,6,188,10/12/2020 19:11:22,0,MZ,0,0,0,
 State Unassigned,0,0,0,0,19/07/2020 09:40:01,0,UN,0,0,0,MoHFW website reports that these are the 'cases that are being reassigned to states'. 
 Lakshadweep,0,0,0,0,26/03/2020 07:19:29,0,LD,0,0,0,
