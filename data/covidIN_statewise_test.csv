@@ -246,7 +246,7 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/1/2021,Andaman and Nicobar Islands,,,,198478,Samples Sent,4969,,0,,,,,,,,,,,,,,,,,,,,,,16,,,,1037,,,,,,,,,,,,,,,,,https://dhs.andaman.gov.in/NewEvents/532.pdf,https://dhs.andaman.gov.in/,
 14/1/2021,Andaman and Nicobar Islands,,,,199805,Samples Sent,4976,,0,,,,,,,,,,,,,,,,,,,,,,23,,,,1037,,,,,,,,,,,,,,,,,https://dhs.andaman.gov.in/NewEvents/533.pdf,https://dhs.andaman.gov.in/,
 15/1/2021,Andaman and Nicobar Islands,,,,,Samples Sent,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,1037,,,,,,,,,,,,,,,,,,https://dhs.andaman.gov.in/,
-16/1/2021,Andaman and Nicobar Islands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/1/2021,Andaman and Nicobar Islands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dhs.andaman.gov.in/,
 02/04/2020,Andhra Pradesh,,,,1800,Tested,132,1175,493,,,,,,,,,,,,,,,,,,,,,,,2680,330,,23479,,,,,,,,,,,,,,,,,https://twitter.com/ArogyaAndhra/status/1245580598938198016?s=20,,
 10/04/2020,Andhra Pradesh,,,,6374,Tested,365,6009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://hmfw.ap.gov.in/covid_dashboard.aspx,,
 11/04/2020,Andhra Pradesh,,,,6958,Tested,381,6577,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://hmfw.ap.gov.in/covid_dashboard.aspx,,
@@ -529,8 +529,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/1/2021,Andhra Pradesh,,,,12441272,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/ArogyaAndhra/status/1349328291077898244/photo/1,http://covid19.ap.gov.in/Covid19_Admin/index.html,http://dashboard.covid19.ap.gov.in
 14/1/2021,Andhra Pradesh,,,,12482943,Tested,,11597327,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/ArogyaAndhra/status/1349673195297677312?s=20,http://covid19.ap.gov.in/Covid19_Admin/index.html,http://dashboard.covid19.ap.gov.in
 15/1/2021,Andhra Pradesh,,,,12514639,Tested,,11628929,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/ArogyaAndhra/status/1350016270003965952?s=20,http://covid19.ap.gov.in/Covid19_Admin/index.html,http://dashboard.covid19.ap.gov.in
-16/1/2021,Andhra Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://covid19.ap.gov.in/Covid19_Admin/index.html,http://dashboard.covid19.ap.gov.in
-17/1/2021,Andhra Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/1/2021,Andhra Pradesh,,,,12540181,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/ArogyaAndhra/status/1350404950887579649?s=20,http://covid19.ap.gov.in/Covid19_Admin/index.html,http://dashboard.covid19.ap.gov.in
+17/1/2021,Andhra Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://covid19.ap.gov.in/Covid19_Admin/index.html,http://dashboard.covid19.ap.gov.in
 09/04/2020,Arunachal Pradesh,,,,206,Samples Collected,1,185,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/PemaKhanduBJP/status/1248269356070363136?s=19,,
 14/04/2020,Arunachal Pradesh,,,,280,Samples Collected,1,250,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/PemaKhanduBJP/status/1249901653634867200,,
 17/04/2020,Arunachal Pradesh,,,,363,Samples Collected,1,338,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/PemaKhanduBJP/status/1251136883045752834,,
@@ -801,9 +801,10 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 12/1/2021,Arunachal Pradesh,,,,384536,Samples Collected,,355404,,,,,,,,,52,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/DirectorateofHS/status/1349021324086272001,http://covid19.itanagarsmartcity.in/covidstatus.php,
 13/1/2021,Arunachal Pradesh,,,,385299,Samples Collected,,356166,,,,,,,,,49,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/DirectorateofHS/status/1349383254181175296,http://covid19.itanagarsmartcity.in/covidstatus.php,
 14/1/2021,Arunachal Pradesh,,,,386124,Samples Collected,,356976,,,,,,,,,47,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/DirectorateofHS/status/1349747521740918784,http://covid19.itanagarsmartcity.in/covidstatus.php,
-15/1/2021,Arunachal Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://covid19.itanagarsmartcity.in/covidstatus.php,
-16/1/2021,Arunachal Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://covid19.itanagarsmartcity.in/covidstatus.php,
-17/1/2021,Arunachal Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15/1/2021,Arunachal Pradesh,,,,386656,Samples Collected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://covid19.itanagarsmartcity.in/covidstatus.php,
+16/1/2021,Arunachal Pradesh,,,,387121,Samples Collected,,357963,,,,,,,,,35,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/DirectorateofHS/status/1350474565797859332,http://covid19.itanagarsmartcity.in/covidstatus.php,
+17/1/2021,Arunachal Pradesh,,,,,Samples Collected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://covid19.itanagarsmartcity.in/covidstatus.php,
+18/1/2021,Arunachal Pradesh,,,,,Samples Collected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://covid19.itanagarsmartcity.in/covidstatus.php,
 02/04/2020,Assam,,,,962,Tested,16,819,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_assam/status/1245742375319691264/photo/1,,
 10/04/2020,Assam,,,,2863,Tested,29,2685,,,,,,,,,,,,,,,,,,,,,,,,440,240,,3212,,,,,,,,,,,,,,,,,https://t.me/indiacovid/2003?single,,
 11/04/2020,Assam,,,,3011,Tested,29,2842,,,,,,,,,,,,,,,,,,,,,,,,440,240,,3212,,,,,,,,,,,,,,,,,https://t.me/indiacovid/2075?single,,
@@ -1070,8 +1071,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 12/1/2021,Assam,,,,6214575,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_assam/status/1349028163414753287,,
 13/1/2021,Assam,,,,6226872,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_assam/status/1349392196626128896,,
 14/1/2021,Assam,,,,6232827,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_assam/status/1349745389683949569,,
-15/1/2021,Assam,,,,6241227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_assam/status/1350121890661031937,,
-16/1/2021,Assam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15/1/2021,Assam,,,,6241227,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_assam/status/1350121890661031937,,
+16/1/2021,Assam,,,,6255061,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_assam/status/1350502907259469824,,
 17/1/2021,Assam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 05/04/2020,Bihar,,,,3037,Tested,32,2299,706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/sanjayjavin/status/1246667952054665216,,
 08/04/2020,Bihar,,,,4596,Tested,38,,465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/sanjayjavin/status/1247762894063677440,,
@@ -1357,7 +1358,7 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Bihar,,,,19552000,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/BiharHealthDept/status/1349379377885179907,,
 14/01/2021,Bihar,,,,19646625,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/BiharHealthDept/status/1349708402646163457?s=20,,
 15/01/2021,Bihar,,,,19731328,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/BiharHealthDept/status/1350061293802176514?s=20,,
-16/01/2021,Bihar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Bihar,,,,19818150,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/BiharHealthDept/status/1350405574106648576?s=20,,
 17/01/2021,Bihar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 02/04/2020,Chandigarh,,,,124,Tested,18,98,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://chdcovid19.in/,,
 08/04/2020,Chandigarh,,,,184,Tested,18,162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://chdcovid19.in/,,
@@ -1637,8 +1638,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Chandigarh,,,,196211,Tested,,174856,136,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4882,http://chdcovid19.in/,
 14/01/2021,Chandigarh,,,,197283,Tested,,175903,81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4900,http://chdcovid19.in/,
 15/01/2021,Chandigarh,,,,198409,Tested,,177003,120,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4933,http://chdcovid19.in/,
-16/01/2021,Chandigarh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://chdcovid19.in/,
-17/01/2021,Chandigarh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Chandigarh,,,,199538,Tested,,178093,87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4954,http://chdcovid19.in/,
+17/01/2021,Chandigarh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://chdcovid19.in/,
 02/04/2020,Chhattisgarh,,,,1232,Tested,9,921,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.cghealth.nic.in/cghealth17/,,
 10/04/2020,Chhattisgarh,,,,3473,Tested,18,3322,133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHINDI_10042020.pdf,,
 11/04/2020,Chhattisgarh,,,,3858,Tested,18,3503,337,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://cghealth.nic.in/cghealth17/Information/content/CORONA/RevisedMediaBulletinHINDI_11042020.pdf,,
@@ -1915,8 +1916,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Chhattisgarh,,,,3854525,Tested,,,,,,,,,,,,Home,182537,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/HealthCgGov/status/1349377404557357057,http://www.cghealth.nic.in/cghealth17/,
 14/01/2021,Chhattisgarh,,,,3877768,Tested,,,,,,,,,,,,Home,183358,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/HealthCgGov/status/1349743692312154115,http://www.cghealth.nic.in/cghealth17/,
 15/01/2021,Chhattisgarh,,,,3902112,Tested,,,,,,,,,,,,Home,184158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/HealthCgGov/status/1350101155087437824,http://www.cghealth.nic.in/cghealth17/,
-16/01/2021,Chhattisgarh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.cghealth.nic.in/cghealth17/,
-17/01/2021,Chhattisgarh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Chhattisgarh,,,,3922535,Tested,,,,,,,,,,,,Home,184597,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/HealthCgGov/status/1350464943271788544,http://www.cghealth.nic.in/cghealth17/,
+17/01/2021,Chhattisgarh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.cghealth.nic.in/cghealth17/,
 09/04/2020,Dadra and Nagar Haveli and Daman and Diu,,,,80,Samples Collected,0,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/DnhPublicity/status/1247952828519178241,https://twitter.com/DnhPublicity/status/1248162771897692160,
 10/04/2020,Dadra and Nagar Haveli and Daman and Diu,,,,130,Tested,0,130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/DnhPublicity/status/1248309707397156864,,
 11/04/2020,Dadra and Nagar Haveli and Daman and Diu,,,,211,Tested,0,211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/DnhPublicity/status/1249023214333743104,,
@@ -2373,8 +2374,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Delhi,3711674,5861808,,9595402,Tested,,,,,,,,,,,1345,Home,,,,,,,,,,,,,1289,,,,19683,,,,2585,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4902,https://delhifightscorona.in/,
 14/01/2021,Delhi,3750900,5893907,,9666727,Tested,,,,,,,,,,,1311,Home,,,,,,,,,,,,,1286,,,,19675,,,,2501,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4903,https://delhifightscorona.in/,
 15/01/2021,Delhi,3789890,5921838,,9733648,Tested,,,,,,,,,,,1275,Home,,,,,,,,,,,,,1225,,,,19649,,,,2451,,,,,,,,,,,,,https://twitter.com/ANI/status/1350078881651281924?s=20,https://delhifightscorona.in/,
-16/01/2021,Delhi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://delhifightscorona.in/,
-17/01/2021,Delhi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Delhi,3830607,5953978,,9805605,Tested,,,,,,,,,,,1234,Home,,,,,,,,,,,,,1158,,,,19127,,,,2416,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4968,https://delhifightscorona.in/,
+17/01/2021,Delhi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://delhifightscorona.in/,
 02/04/2020,Goa,,,,220,Samples Sent,5,197,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.goa.gov.in/wp-content/uploads/2020/04/Media-Bulletin-02.04.2020.pdf,,
 09/04/2020,Goa,,,,344,Samples Sent,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/dip_goa/status/1248237654258352129?s=09,,
 10/04/2020,Goa,,,,354,Samples Sent,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/DHS_Goa/status/1248609175241764872/photo/1,,
@@ -2652,8 +2653,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Goa,,,,421490,Samples Sent,,,,,,,,,,27456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.goa.gov.in/wp-content/uploads/2021/01/Media-Bulletin-13-th-January-2021-.pdf,https://www.goa.gov.in/,https://twitter.com/DHS_Goa/status/1317461310150307843?s=20
 14/01/2021,Goa,,,,423328,Samples Sent,,,,,,,,,,27512,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.goa.gov.in/wp-content/uploads/2021/01/Media-Bulletin-14th-January-2021.pdf,https://www.goa.gov.in/,https://twitter.com/DHS_Goa/status/1317461310150307843?s=20
 15/01/2021,Goa,,,,425033,Samples Sent,,,,,,,,,,27564,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.goa.gov.in/wp-content/uploads/2021/01/Media-Bulletin-15th-January-2021.pdf,https://www.goa.gov.in/,https://twitter.com/DHS_Goa/status/1317461310150307843?s=20
-16/01/2021,Goa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.goa.gov.in/,https://twitter.com/DHS_Goa/status/1317461310150307843?s=20
-17/01/2021,Goa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Goa,,,,426703,Samples Sent,,,,,,,,,,27657,,,,,,,,,,,,,,,8,,,,335,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4962,https://www.goa.gov.in/,https://twitter.com/DHS_Goa/status/1317461310150307843?s=20
+17/01/2021,Goa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.goa.gov.in/,https://twitter.com/DHS_Goa/status/1317461310150307843?s=20
 08/04/2020,Gujarat,,,,4224,Tested,186,3905,133,,12299,All Included,,,,,,,,,,,,,,,,,,,,,1761,,,,,,,,,,,,,,,,,,,https://t.me/indiacovid/1850?single,,
 10/04/2020,Gujarat,,,,7718,Tested,378,7237,103,,,All Included,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/indiacovid/1994?single,,
 11/04/2020,Gujarat,,,,9763,Tested,468,8888,407,,12042,All Included,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://gujcovid19.gujarat.gov.in/,,
@@ -2936,8 +2937,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Gujarat,,,,10238845,Tested,,,,,477229,All Included,,,,,,,,,,,,,,,,,56,,,,,,,,,,,,,,,,,,,,,,,,https://gujcovid19.gujarat.gov.in,https://twitter.com/GujHFWDept/status/1349364253812264967?s=20
 14/01/2021,Gujarat,,,,10276485,Tested,,,,,474210,All Included,,,,,,,,,,,,,,,,,54,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4909,https://gujcovid19.gujarat.gov.in,https://twitter.com/GujHFWDept/status/1349738210658709505?s=20
 15/01/2021,Gujarat,,,,10308797,Tested,,,,,474410,All Included,,,,,,,,,,,,,,,,,55,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4938,https://gujcovid19.gujarat.gov.in,https://twitter.com/GujHFWDept/status/1350082004117811200?s=20
-16/01/2021,Gujarat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-17/01/2021,Gujarat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Gujarat,,,,10344324,Tested,,,,,471357,All Included,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4973,https://gujcovid19.gujarat.gov.in,https://twitter.com/GujHFWDept/status/1350082004117811200?s=20
+17/01/2021,Gujarat,,,,,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://gujcovid19.gujarat.gov.in,https://twitter.com/GujHFWDept/status/1350082004117811200?s=20
 03/04/2020,Haryana,,,,1325,Samples Sent,44,938,343,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/BULLETIN%20EVENING03042020.pdf,,
 07/04/2020,Haryana,,,,2520,Samples Sent,141,1821,558,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/bulletin%2008042020Morning.pdf,,
 08/04/2020,Haryana,,,,2650,Samples Sent,153,1885,612,,,,,,,,,,,,,,,,,,,,,,,,,,8649,,,,,,,,,,,,,,,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/bulletin%2008042020%20evening.pdf,,
@@ -3223,9 +3224,9 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Haryana,,,,4867418,Samples Sent,,4596464,5338,,,,,,,,,,,,411336,272838,All Included,138498,,,,,,,,,,,,,,,,,,,,168548,97053,15,,2005,960,1,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2013-01-2021.pdf,http://www.nhmharyana.gov.in/page.aspx?id=208,
 14/01/2021,Haryana,,,,4890330,Samples Sent,,4619347,5180,,,,,,,,,,,,413523,274677,All Included,138846,,,,,11,74,,,,,,,,,,,,,,168615,97173,15,,2008,963,1,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2014-01-2021.pdf,http://www.nhmharyana.gov.in/page.aspx?id=208,
 15/01/2021,Haryana,,,,4909834,Samples Sent,,4638878,4992,,,,,,,,,,,,416684,277091,All Included,139593,,,,,9,72,,,,,,,,,,,,,,168703,97246,15,,2014,964,1,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2015-01-2021.pdf,http://www.nhmharyana.gov.in/page.aspx?id=208,
-16/01/2021,Haryana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.nhmharyana.gov.in/page.aspx?id=208,
-17/01/2021,Haryana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10/04/2020,Himachal Pradesh,,,,900,Tested,30,870,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1248648731374714880,,/
+16/01/2021,Haryana,,,,4931662,Samples Sent,,4660539,4992,,,,,,,,,,,,417851,277799,All Included,140052,,,,,5,46,,,,,,,,,,,,,,168804,97312,15,,2016,966,1,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2016-01-2021.pdf,http://www.nhmharyana.gov.in/page.aspx?id=208,
+17/01/2021,Haryana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.nhmharyana.gov.in/page.aspx?id=208,
+10/04/2020,Himachal Pradesh,,,,900,Tested,30,870,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1248648731374714880,,
 11/04/2020,Himachal Pradesh,,,,900,Tested,30,870,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.nrhmhp.gov.in/,,
 12/04/2020,Himachal Pradesh,,,,1113,Tested,32,944,137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1249299563308974085?s=09,,
 13/04/2020,Himachal Pradesh,,,,1210,Tested,32,1109,69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/ANI/status/1249664611621703680?s=09,,
@@ -3500,13 +3501,13 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 07/01/2021,Himachal Pradesh,,,,828582,Tested,,771450,986,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1347208570853474305,,
 08/01/2021,Himachal Pradesh,,,,837932,Tested,,779389,2261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1347570553574416390,,
 09/01/2021,Himachal Pradesh,,,,845767,Tested,,787445,1956,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1347931123729399809,,
-10/1/2021,Himachal Pradesh,,,,849866,Tested,,793080,334,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1348301507972665345,,
-11/1/2021,Himachal Pradesh,,,,853916,Tested,,797219,176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1348665505008156672/photo/1,,
-12/1/2021,Himachal Pradesh,,,,859688,Tested,,802973,119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1349022941359579142,,
-13/1/2021,Himachal Pradesh,,,,866082,Tested,,809214,179,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1349385591545204737,,
-14/1/2021,Himachal Pradesh,,,,870733,Tested,,813854,128,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1349744716661706755,,
+10/01/2021,Himachal Pradesh,,,,849866,Tested,,793080,334,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1348301507972665345,,
+11/01/2021,Himachal Pradesh,,,,853916,Tested,,797219,176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1348665505008156672/photo/1,,
+12/01/2021,Himachal Pradesh,,,,859688,Tested,,802973,119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1349022941359579142,,
+13/01/2021,Himachal Pradesh,,,,866082,Tested,,809214,179,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1349385591545204737,,
+14/01/2021,Himachal Pradesh,,,,870733,Tested,,813854,128,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1349744716661706755,,
 15/01/2021,Himachal Pradesh,,,,875389,Tested,,818496,91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1350106891293085699,,
-16/01/2021,Himachal Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Himachal Pradesh,,,,881083,Tested,,824025,185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1350472699961769984,,
 17/01/2021,Himachal Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 05/04/2020,Jammu and Kashmir,,,,1551,Reports Received,106,1429,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/diprjk/status/1246764514135040000,,
 10/04/2020,Jammu and Kashmir,,,,2961,Reports Received,207,2754,,,,,,,,,,,,,,415,Hospital,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/diprjk/status/1248598584380887042/photo/1,,
@@ -3790,7 +3791,7 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Jammu and Kashmir,,,,4164847,Reports Received,,4041962,,,,,,,,,1629,All Included,,,,36032,All Included,901268,973732,,27,,19,,293,284,,,3666,,,,,,,,,,,,,,,,,https://twitter.com/diprjk/status/1349334870971928576,,
 14/01/2021,Jammu and Kashmir,,,,4188783,Reports Received,,4065819,,,,,,,,,1468,All Included,,,,32662,All Included,905089,985055,,21,,15,,198,284,,,3666,,,,,,,,,,,,,,,,,https://twitter.com/diprjk/status/1349696834516574212?s=20,,
 15/01/2021,Jammu and Kashmir,,,,4211448,Reports Received,,4088340,,,,,,,,,1428,All Included,,,,32270,All Included,908095,992679,,25,,10,,192,284,,,3666,,,,,,,,,,,,,,,,,https://twitter.com/diprjk/status/1350059062667276296?s=20,,
-16/01/2021,Jammu and Kashmir,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Jammu and Kashmir,,,,4234239,Reports Received,,4111022,,,,,,,,,1280,All Included,,,,33966,All Included,909969,1000494,,24,,8,,178,284,,,3666,,,,,,,,,,,,,,,,,https://twitter.com/diprjk/status/1350416643982147585?s=20,,
 17/01/2021,Jammu and Kashmir,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10/04/2020,Jharkhand,,,,1340,Tested,14,1326,,,15714,Centre,,,,,,,,,,,,,,,,,,,,239,,,2891,,,,,,,,,,,,,,,,,https://twitter.com/BannaGupta76/status/1248679134676443136,,
 11/04/2020,Jharkhand,,,,1546,Tested,17,1529,366,,15534,Centre,,,,,,,,,,,,,,,,,,,,239,,,2891,,,,,,,,,,,,,,,,,https://twitter.com/BannaGupta76/status/1249017689827205121?s=20,,
@@ -4071,8 +4072,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/1/2021,Jharkhand,,,,4989862,Tested,117240,4872622,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,781,267,,,https://twitter.com/rnuddkranchi/status/1349381132668661763,http://jrhms.jharkhand.gov.in/Press-Release.aspx,https://twitter.com/FOBGumla/status/1338517788772581377
 14/1/2021,Jharkhand,,,,5006232,Tested,117384,4888848,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,781,267,,,https://twitter.com/rnuddkranchi/status/1349749794839830528,http://jrhms.jharkhand.gov.in/Press-Release.aspx,https://twitter.com/FOBGumla/status/1338517788772581377
 15/01/2021,Jharkhand,,,,5020566,Tested,117480,4903086,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,781,267,,,https://twitter.com/rnuddkranchi/status/1350111205503889408,http://jrhms.jharkhand.gov.in/Press-Release.aspx,https://twitter.com/FOBGumla/status/1338517788772581377
-16/01/2021,Jharkhand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://jrhms.jharkhand.gov.in/Press-Release.aspx,https://twitter.com/FOBGumla/status/1338517788772581377
-17/01/2021,Jharkhand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Jharkhand,,,,5035900,Tested,117599,4918301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,782,267,,,https://twitter.com/rnuddkranchi/status/1350486943025385473,http://jrhms.jharkhand.gov.in/Press-Release.aspx,https://twitter.com/FOBGumla/status/1338517788772581377
+17/01/2021,Jharkhand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://jrhms.jharkhand.gov.in/Press-Release.aspx,https://twitter.com/FOBGumla/status/1338517788772581377
 03/04/2020,Karnataka,,,,4587,Tested,128,4281,178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/03-04-2020(English).pdf,,
 07/04/2020,Karnataka,,,,6580,Tested,175,5942,,,,,,,,,,,,,,,,,,,,,,,,250,130,,1540,,,,,,,,,,,,,,,,,https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/07-04-2020(English).pdf,,
 08/04/2020,Karnataka,,,,6967,Tested,181,6473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/08-04-2020(English).pdf,,
@@ -4357,8 +4358,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Karnataka,11775689,3823185,,15598874,Tested,,,,,,,,,,,,,,,,,,,,,193,,,,,,,,,,,,,,,,,,,,,,,,,https://t.co/zYDmB0XcTx?amp=1,https://twitter.com/DHFWKA/status/1349382859425947649,
 14/01/2021,Karnataka,11880321,3824808,,15705129,Tested,,,,,,,,,,,,,,,,,,,,,187,,,,,,,,,,,,,,,,,,,,,,,,,https://t.co/REQ8wGuTAD?amp=1,https://twitter.com/DHFWKA/status/1349746465594241024/photo/1,
 15/01/2021,Karnataka,11964152,3825826,,15789978,Tested,,,,,,,,,,,,,,,,,,,,,183,,,,,,,,,,,,,,,,,,,,,,,,,https://t.co/sYfm7gih3a?amp=1,https://twitter.com/DHFWKA/status/1350107050949267457,
-16/01/2021,Karnataka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-17/01/2021,Karnataka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Karnataka,12048452,3836542,,15884994,Tested,,,,,,,,,,,,,,,,,,,,,181,,,,,,,,,,,,,,,,,,,,,,,,,https://t.co/3tuWXf7i4B?amp=1,https://twitter.com/DHFWKA/status/1350478941501288450,
+17/01/2021,Karnataka,,,,,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 01/04/2020,Kerala,,,,7965,Samples Sent,265,7256,444,,,,,,,,622,Hospital,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dashboard.kerala.gov.in/testing-view-public.php,https://dashboard.kerala.gov.in/quarantine-view-public.php,
 02/04/2020,Kerala,,,,8456,Samples Sent,286,7622,548,,,,,,,,643,Hospital,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dashboard.kerala.gov.in/testing-view-public.php,https://dashboard.kerala.gov.in/quarantine-view-public.php,
 03/04/2020,Kerala,,,,9139,Samples Sent,295,8126,718,,,,,,,,706,Hospital,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dashboard.kerala.gov.in/,https://dashboard.kerala.gov.in/quarantine-view-public.php,
@@ -4649,8 +4650,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Kerala,2851361,5713024,77321,8620873,Samples Sent,825771,,,200259,10709,Hospital,,189550,Home,,,,,,,,,,,,780,,230,,,,,,,,,,,,,,,,,,,,,,,https://dhs.kerala.gov.in/wp-content/uploads/2021/01/Bulletin-HFWD-English-January-13.pdf,https://dhs.kerala.gov.in/%E0%B4%A1%E0%B5%86%E0%B4%AF%E0%B4%BF%E0%B4%B2%E0%B4%BF-%E0%B4%AC%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%A8%E0%B5%8D%E2%80%8D/,https://dashboard.kerala.gov.in/quarantine-view-public.php
 14/01/2021,Kerala,2876685,5734579,77321,8688585,Samples Sent,831261,,,201293,10904,Hospital,,190389,Home,,,,,,,,,,,,778,,227,,,,,,,,,,,,,,,,,,,,,,,https://dhs.kerala.gov.in/wp-content/uploads/2021/01/Bulletin-HFWD-English-January-14.pdf,https://dhs.kerala.gov.in/%E0%B4%A1%E0%B5%86%E0%B4%AF%E0%B4%BF%E0%B4%B2%E0%B4%BF-%E0%B4%AC%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%A8%E0%B5%8D%E2%80%8D/,https://dashboard.kerala.gov.in/quarantine-view-public.php
 15/01/2021,Kerala,2895946,5778252,77321,8751519,Samples Sent,836885,,,202080,11081,Hospital,,190999,Home,,,,,,,,,,,,764,,222,,,,,,,,,,,,,,,,,,,,,,,https://dhs.kerala.gov.in/wp-content/uploads/2021/01/Bulletin-HFWD-English-January-15.pdf,https://dhs.kerala.gov.in/%E0%B4%A1%E0%B5%86%E0%B4%AF%E0%B4%BF%E0%B4%B2%E0%B4%BF-%E0%B4%AC%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%A8%E0%B5%8D%E2%80%8D/,https://dashboard.kerala.gov.in/quarantine-view-public.php
-16/01/2021,Kerala,,,,,,,,,,,Hospital,,,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dhs.kerala.gov.in/%E0%B4%A1%E0%B5%86%E0%B4%AF%E0%B4%BF%E0%B4%B2%E0%B4%BF-%E0%B4%AC%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%A8%E0%B5%8D%E2%80%8D/,https://dashboard.kerala.gov.in/quarantine-view-public.php
-17/01/2021,Kerala,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Kerala,2915439,5823667,77321,8816427,Samples Sent,842845,,,205561,11094,Hospital,,194467,Home,,,,,,,,,,,,765,,228,,,,,,,,,,,,,,,,,,,,,,,https://dhs.kerala.gov.in/wp-content/uploads/2021/01/Bulletin-HFWD-English-January-16.pdf,https://dhs.kerala.gov.in/%E0%B4%A1%E0%B5%86%E0%B4%AF%E0%B4%BF%E0%B4%B2%E0%B4%BF-%E0%B4%AC%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%A8%E0%B5%8D%E2%80%8D/,https://dashboard.kerala.gov.in/quarantine-view-public.php
+17/01/2021,Kerala,,,77321,,Samples Sent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dhs.kerala.gov.in/%E0%B4%A1%E0%B5%86%E0%B4%AF%E0%B4%BF%E0%B4%B2%E0%B4%BF-%E0%B4%AC%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%A8%E0%B5%8D%E2%80%8D/,https://dashboard.kerala.gov.in/quarantine-view-public.php
 13/04/2020,Ladakh,,,,618,Samples Collected,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://newsonair.com/News?title=Ladakh-well-ahead-of-all-states-and-UTs-in-testing-suspects-for-COVID-19&id=385511,,
 14/04/2020,Ladakh,,,,760,Samples Collected,17,615,69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/DIPR_Leh/status/1250016972072292353?s=09,,
 15/04/2020,Ladakh,,,,820,Samples Collected,18,657,86,,154,Facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/ladags/status/1250457259299110914?s=19,,
@@ -4842,7 +4843,7 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/1/2021,Ladakh,52655,55252,,109774,Samples Collected,,94975,,86258,155,Facility,82398,1792,Home,72,16,Facility,,,,,,,,,,,,,,,,,726,,,,,,,,,,,,,,,,,https://twitter.com/DIPR_Leh/status/1349588086863273987/photo/1,http://covid.ladakh.gov.in/,https://www.facebook.com/114874993303412/photos/pcb.219534089504168/219534002837510/?type=3&__tn__=HH-R&eid=ARBdJR3Law2b3SAxVhDVXYeX6rWd1DC78_X0OFZzPzcR1jqifsTGiZ-LepAh8tmCqAN6YxtpTX6BRBKt&__xts__%5B0%5D=68.ARCJKO0uQ2-AFV8Dhqj-D67zRjka8hwHylbaO2wG0Oa_tAslvBo-EZNY-Bq2DV5hZoe63RwwKJd_itdUi5WisXBzGFG64s8plJ7BvlSyKT1dzKbw4AyJRvdrI3jfgw2_ijFgm3IauW76SSclltssQ3BSl0CIj__9ibj27fKwBIvbKLvd6-hUexpEytY3qqvMH-tLgAQCgE4v5GIBKpU7sxNrirvDUlyMK8OXpz3dBnR5_gMarNAj0eEsA1Q5Ep5ox3MdINWCTLdkOj6CHkB8qjnj73QQcdd22zFp7BCvZmpV66kz_Sw2R_qjwoY0ek3XDHHSBMliP6sr93F0iZnSUlc
 14/1/2021,Ladakh,52772,55428,,110068,Samples Collected,,95302,,86409,155,Facility,82487,1846,Home,52,19,Facility,,,,,,,,,,,,,,,,,726,,,,,,,,,,,,,,,,,https://twitter.com/DIPR_Ladakh/status/1349969714676568068/photo/3,http://covid.ladakh.gov.in/,https://www.facebook.com/114874993303412/photos/pcb.219534089504168/219534002837510/?type=3&__tn__=HH-R&eid=ARBdJR3Law2b3SAxVhDVXYeX6rWd1DC78_X0OFZzPzcR1jqifsTGiZ-LepAh8tmCqAN6YxtpTX6BRBKt&__xts__%5B0%5D=68.ARCJKO0uQ2-AFV8Dhqj-D67zRjka8hwHylbaO2wG0Oa_tAslvBo-EZNY-Bq2DV5hZoe63RwwKJd_itdUi5WisXBzGFG64s8plJ7BvlSyKT1dzKbw4AyJRvdrI3jfgw2_ijFgm3IauW76SSclltssQ3BSl0CIj__9ibj27fKwBIvbKLvd6-hUexpEytY3qqvMH-tLgAQCgE4v5GIBKpU7sxNrirvDUlyMK8OXpz3dBnR5_gMarNAj0eEsA1Q5Ep5ox3MdINWCTLdkOj6CHkB8qjnj73QQcdd22zFp7BCvZmpV66kz_Sw2R_qjwoY0ek3XDHHSBMliP6sr93F0iZnSUlc
 15/1/2021,Ladakh,,,,,Samples Collected,,,,,155,Facility,,,Home,,,Facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://covid.ladakh.gov.in/,https://www.facebook.com/114874993303412/photos/pcb.219534089504168/219534002837510/?type=3&__tn__=HH-R&eid=ARBdJR3Law2b3SAxVhDVXYeX6rWd1DC78_X0OFZzPzcR1jqifsTGiZ-LepAh8tmCqAN6YxtpTX6BRBKt&__xts__%5B0%5D=68.ARCJKO0uQ2-AFV8Dhqj-D67zRjka8hwHylbaO2wG0Oa_tAslvBo-EZNY-Bq2DV5hZoe63RwwKJd_itdUi5WisXBzGFG64s8plJ7BvlSyKT1dzKbw4AyJRvdrI3jfgw2_ijFgm3IauW76SSclltssQ3BSl0CIj__9ibj27fKwBIvbKLvd6-hUexpEytY3qqvMH-tLgAQCgE4v5GIBKpU7sxNrirvDUlyMK8OXpz3dBnR5_gMarNAj0eEsA1Q5Ep5ox3MdINWCTLdkOj6CHkB8qjnj73QQcdd22zFp7BCvZmpV66kz_Sw2R_qjwoY0ek3XDHHSBMliP6sr93F0iZnSUlc
-16/1/2021,Ladakh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/1/2021,Ladakh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://covid.ladakh.gov.in/,https://www.facebook.com/114874993303412/photos/pcb.219534089504168/219534002837510/?type=3&__tn__=HH-R&eid=ARBdJR3Law2b3SAxVhDVXYeX6rWd1DC78_X0OFZzPzcR1jqifsTGiZ-LepAh8tmCqAN6YxtpTX6BRBKt&__xts__%5B0%5D=68.ARCJKO0uQ2-AFV8Dhqj-D67zRjka8hwHylbaO2wG0Oa_tAslvBo-EZNY-Bq2DV5hZoe63RwwKJd_itdUi5WisXBzGFG64s8plJ7BvlSyKT1dzKbw4AyJRvdrI3jfgw2_ijFgm3IauW76SSclltssQ3BSl0CIj__9ibj27fKwBIvbKLvd6-hUexpEytY3qqvMH-tLgAQCgE4v5GIBKpU7sxNrirvDUlyMK8OXpz3dBnR5_gMarNAj0eEsA1Q5Ep5ox3MdINWCTLdkOj6CHkB8qjnj73QQcdd22zFp7BCvZmpV66kz_Sw2R_qjwoY0ek3XDHHSBMliP6sr93F0iZnSUlc
 05/04/2020,Madhya Pradesh,,,,2812,Samples Collected,193,1954,665,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/JansamparkMP/status/1246841187073273857,,
 07/04/2020,Madhya Pradesh,,,,3770,Tested,290,3125,355,,,,,,,,,,,,,,,,,,,,,,,1598,993,,9492,,,,,,,,,,,,,,,,,https://twitter.com/JansamparkMP/status/1247554866043473920,,
 08/04/2020,Madhya Pradesh,,,,4056,Tested,341,3443,272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/JansamparkMP/status/1247907281703862272/photo/2,,
@@ -5128,8 +5129,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Madhya Pradesh,,,,4974209,Reports Received,,4595069,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/healthminmp/status/1349377109815406592/photo/2,https://www.mpinfo.org/,https://twitter.com/JansamparkMP/status/1336326228731592705/photo/1
 14/01/2021,Madhya Pradesh,,,,4998536,Reports Received,,4618976,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/healthminmp/status/1349711991452041216?s=20,https://www.mpinfo.org/,https://twitter.com/JansamparkMP/status/1336326228731592705/photo/1
 15/01/2021,Madhya Pradesh,,,,5021899,Reports Received,,4641548,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/healthminmp/status/1350079874996682753?s=20,https://www.mpinfo.org/,https://twitter.com/JansamparkMP/status/1336326228731592705/photo/1
-16/01/2021,Madhya Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.mpinfo.org/,https://twitter.com/JansamparkMP/status/1336326228731592705/photo/1
-17/01/2021,Madhya Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Madhya Pradesh,,,,5045476,Reports Received,,4664760,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/healthminmp/status/1350468143550894080,https://www.mpinfo.org/,https://twitter.com/JansamparkMP/status/1336326228731592705/photo/1
+17/01/2021,Madhya Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.mpinfo.org/,https://twitter.com/JansamparkMP/status/1336326228731592705/photo/1
 05/04/2020,Maharashtra,,,,16008,Tested,,14837,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 06/04/2020,Maharashtra,,,,17563,Tested,868,15808,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.cnbctv18.com/healthcare/maharashtra-covid-19-tally-mounts-to-868-with-7-fresh-deaths-5634351.htm,,
 07/04/2020,Maharashtra,,,,20877,Tested,1018,19290,569,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://arogya.maharashtra.gov.in/pdf/covidepressnote07.pdf,,
@@ -5412,8 +5413,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Maharashtra,,,,13562194,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://arogya.maharashtra.gov.in/1175/Novel--Corona-Virus,https://www.covid19maharashtragov.in/mh-covid/dashboard
 14/01/2021,Maharashtra,,,,13623298,Tested,,,,,2403,Institutional,,196829,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/ANI/status/1349719821559087107?s=20,https://arogya.maharashtra.gov.in/1175/Novel--Corona-Virus,https://www.covid19maharashtragov.in/mh-covid/dashboard
 15/01/2021,Maharashtra,,,,13684589,Tested,,,,,2240,Institutional,,224851,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/ANI/status/1350091103781883905?s=20,https://arogya.maharashtra.gov.in/1175/Novel--Corona-Virus,https://www.covid19maharashtragov.in/mh-covid/dashboard
-16/01/2021,Maharashtra,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://arogya.maharashtra.gov.in/1175/Novel--Corona-Virus,https://www.covid19maharashtragov.in/mh-covid/dashboard
-17/01/2021,Maharashtra,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Maharashtra,,,,13743486,Tested,,,,,2037,Institutional,,224705,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/ANI/status/1350440584595398656?s=20,https://arogya.maharashtra.gov.in/1175/Novel--Corona-Virus,https://www.covid19maharashtragov.in/mh-covid/dashboard
+17/01/2021,Maharashtra,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://arogya.maharashtra.gov.in/1175/Novel--Corona-Virus,https://www.covid19maharashtragov.in/mh-covid/dashboard
 14/04/2020,Manipur,,,,276,Tested,2,,,321,109,Government,212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://nrhmmanipur.org/wp-content/uploads/2020/03/PHOTO-2020-04-14-21-19-48.jpg,,
 17/04/2020,Manipur,,,,311,Reports Received,2,,,359,126,Government,233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://nrhmmanipur.org/wp-content/uploads/2020/03/170420_status.jpg,,
 24/04/2020,Manipur,,,,402,Reports Received,2,,,391,80,Government,311,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://nrhmmanipur.org/wp-content/uploads/2020/05/status_240420.jpg,,
@@ -5618,9 +5619,9 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 12/01/2021,Manipur,234987,256971,,491958,Tested,,,,,,,,,,,,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/airnews_imphal/status/1348985531313524739/photo/2,http://nrhmmanipur.org/?page_id=2493,https://twitter.com/DiprManipur/status/1342476934316400640/photo/3
 13/01/2021,Manipur,235586,257956,,493542,Tested,,,,,,,,,,9118,33,Home,8479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4879,http://nrhmmanipur.org/?page_id=2493,https://twitter.com/DiprManipur/status/1342476934316400640/photo/3
 14/01/2021,Manipur,236017,258606,,494623,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4895,http://nrhmmanipur.org/?page_id=2493,https://twitter.com/DiprManipur/status/1342476934316400640/photo/3
-15/01/2021,Manipur,,,,,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://nrhmmanipur.org/?page_id=2493,https://twitter.com/DiprManipur/status/1342476934316400640/photo/3
+15/01/2021,Manipur,236570,259298,,495868,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4971,http://nrhmmanipur.org/?page_id=2493,https://twitter.com/DiprManipur/status/1342476934316400640/photo/3
 16/01/2021,Manipur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://nrhmmanipur.org/?page_id=2493,https://twitter.com/DiprManipur/status/1342476934316400640/photo/3
-17/01/2021,Manipur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17/01/2021,Manipur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://nrhmmanipur.org/?page_id=2493,https://twitter.com/DiprManipur/status/1342476934316400640/photo/3
 16/04/2020,Meghalaya,,,,552,Tested,7,299,246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/indiacovid/2463,,
 17/04/2020,Meghalaya,,,,617,Tested,9,541,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://meghalaya.gov.in/megcms/sites/default/files/press_release/CM%20Media%20Brief_0.pdf,,
 18/04/2020,Meghalaya,,,,738,Tested,11,667,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://meghalayaonline.gov.in/covid/login.htm#,,
@@ -5848,8 +5849,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/1/2021,Meghalaya,,,,312221,Tested,,298552,,,57,Institutional,,,,,102,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.syllad.com/meghalaya-one-more-dies-of-covid-19-18-new-cases-detected/,https://twitter.com/PIBShillong/status/1334522422876274688?s=20,http://meghalayaonline.gov.in/covid/login.htm
 14/1/2021,Meghalaya,,,,313914,Tested,,300227,,,66,Institutional,,,,,93,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.syllad.com/meghalaya-records-18-new-covid-19-cases-17-recoveries/,https://twitter.com/PIBShillong/status/1334522422876274688?s=20,http://meghalayaonline.gov.in/covid/login.htm
 15/01/2021,Meghalaya,,,,315290,Tested,,301599,,,66,Institutional,,,,,93,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.syllad.com/meghalaya-records-4-new-covid-19-cases/,https://twitter.com/PIBShillong/status/1334522422876274688?s=20,http://meghalayaonline.gov.in/covid/login.htm
-16/01/2021,Meghalaya,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/PIBShillong/status/1334522422876274688?s=20,http://meghalayaonline.gov.in/covid/login.htm
-17/01/2021,Meghalaya,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Meghalaya,,,,316632,Tested,,302939,,,66,Institutional,,,,,93,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.syllad.com/meghalaya-records-3-new-covid-19-cases-15-recoveries/,https://twitter.com/PIBShillong/status/1334522422876274688?s=20,http://meghalayaonline.gov.in/covid/login.htm
+17/01/2021,Meghalaya,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/PIBShillong/status/1334522422876274688?s=20,http://meghalayaonline.gov.in/covid/login.htm
 06/04/2020,Mizoram,,,,58,Samples Collected,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://health.mizoram.gov.in/post/covid-19-bulletin-date-642020,,
 07/04/2020,Mizoram,,,,58,Samples Collected,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://health.mizoram.gov.in/post/covid-19-bulletin-date-742020,,
 08/04/2020,Mizoram,,,,74,Samples Collected,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://health.mizoram.gov.in/post/covid-19-bulletin-date-842020,,
@@ -6126,9 +6127,9 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 12/1/2021,Mizoram,110907,77211,,188118,Samples Collected,,,,24708,699,Government,23305,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-1212021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp,https://dipr.mizoram.gov.in/post/existing-number-of-inmates-at-quarantine-facilities-as-on-12-01-2021,https://dipr.mizoram.gov.in/posts?year=2021&month=January
 13/1/2021,Mizoram,111351,77845,,189196,Samples Collected,,,,24794,712,Government,23376,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-1312021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp,https://dipr.mizoram.gov.in/post/existing-number-of-inmates-at-quarantine-facilities-as-on-13-01-2021-400pm,https://dipr.mizoram.gov.in/posts?year=2021&month=January
 14/1/2021,Mizoram,111835,78225,,190060,Samples Collected,,,,24840,682,Government,23452,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-1412021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp,https://dipr.mizoram.gov.in/post/existing-number-of-inmates-at-quarantine-facilities-as-on-14-01-2021,https://dipr.mizoram.gov.in/posts?year=2021&month=January
-15/1/2021,Mizoram,112350,78746,,191096,Samples Collected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-1512021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp,,https://dipr.mizoram.gov.in/posts?year=2021&month=January
-16/1/2021,Mizoram,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dipr.mizoram.gov.in/posts?year=2021&month=January
-17/1/2021,Mizoram,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15/1/2021,Mizoram,112350,78746,,191096,Samples Collected,,,,,,Government,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-1512021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp,,https://dipr.mizoram.gov.in/posts?year=2021&month=January
+16/1/2021,Mizoram,112852,79130,,191982,Samples Collected,,,,24965,697,Government,23562,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-1612021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp,https://dipr.mizoram.gov.in/post/existing-number-of-inmates-at-quarantine-facilities-as-on16-01-21,https://dipr.mizoram.gov.in/posts?year=2021&month=January
+17/1/2021,Mizoram,,,,,Samples Collected,,,,,,Government,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://dipr.mizoram.gov.in/posts?year=2021&month=January
 06/04/2020,Nagaland,,,,60,Samples Sent,0,47,13,,,,,,,,,,,,,,,,,,,,,,,,70,,489,,,,,,,,,,,,,,,,,http://morungexpress.com/nagaland-covid-19-update-2,,
 10/04/2020,Nagaland,,,,70,Samples Sent,0,69,1,,20,Facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://morungexpress.com/nagaland-covid-19-update-4,,
 11/04/2020,Nagaland,,,,70,Samples Sent,0,70,,,22,Facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://morungexpress.com/nagaland-covid-19-update-5,,
@@ -6411,8 +6412,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/1/2021,Nagaland,109620,12746,,122366,Samples Sent,,,,,0,Facility,,114,Home,,62,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/MyGovNagaland/status/1349332712063074304?s=20,https://covid19.nagaland.gov.in/health-main,
 14/1/2021,Nagaland,109692,12886,,122578,Samples Sent,,,,,0,Facility,,81,Home,,82,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/MyGovNagaland/status/1349675764774436865?s=20,https://covid19.nagaland.gov.in/health-main,
 15/1/2021,Nagaland,109707,13001,,122708,Samples Sent,,,,,0,Facility,,84,Home,,70,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/MyGovNagaland/status/1350065990990663681?s=20,https://covid19.nagaland.gov.in/health-main,
-16/1/2021,Nagaland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://covid19.nagaland.gov.in/health-main,
-17/1/2021,Nagaland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/1/2021,Nagaland,109766,13133,,122899,Samples Sent,,,,,0,Facility,,80,Hospital,,79,Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/MyGovNagaland/status/1350422198259908608/photo/1,https://covid19.nagaland.gov.in/health-main,
+17/1/2021,Nagaland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://covid19.nagaland.gov.in/health-main,
 03/04/2020,Odisha,1395,,,1395,Tested,20,1108,267,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/HFWOdisha/status/1246135145230303232,,
 07/04/2020,Odisha,,,,2441,Tested,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/HFWOdisha/status/1247579939206909953,,
 08/04/2020,Odisha,,,,2441,Tested,42,2399,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://health.odisha.gov.in/,,
@@ -6698,8 +6699,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Odisha,,,,7261900,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,710,,,854466,,,,,,,,,,,,,,,,,,https://statedashboard.odisha.gov.in/,
 14/01/2021,Odisha,,,,7292068,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,710,,,854466,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4907,https://statedashboard.odisha.gov.in/,
 15/01/2021,Odisha,,,,7319608,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,710,,,854466,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4930,https://statedashboard.odisha.gov.in/,
-16/01/2021,Odisha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,710,,,854466,,,,,,,,,,,,,,,,,,https://statedashboard.odisha.gov.in/,
-17/01/2021,Odisha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Odisha,,,,7346098,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,710,,,854466,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4959,https://statedashboard.odisha.gov.in/,
+17/01/2021,Odisha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://statedashboard.odisha.gov.in/,
 18/04/2020,Puducherry,,,,1207,Samples Sent,7,1159,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://covid19dashboard.py.gov.in/,,
 19/04/2020,Puducherry,,,,1245,Samples Sent,7,1214,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://covid19dashboard.py.gov.in/,,
 20/04/2020,Puducherry,,,,1272,Samples Sent,7,1232,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://covid19dashboard.py.gov.in/,,
@@ -6972,9 +6973,9 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 12/01/2021,Puducherry,,,,524786,Samples Sent,42765,481741,280,,129,Hospital,,,,45982,164,Home,,169,,,,,95754,49772,,,,,,,207,,408,56460,201339,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4862,https://health.py.gov.in/,https://covid19dashboard.py.gov.in/LabTestReport
 13/01/2021,Puducherry,,,,527788,Samples Sent,42794,484725,269,,115,Hospital,,,,46129,163,Home,,157,,,,,95946,49817,,,,,,,207,,408,56410,201239,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4886,https://health.py.gov.in/,https://covid19dashboard.py.gov.in/LabTestReport
 14/01/2021,Puducherry,,,,527780,Samples Sent,42837,484588,355,,126,Hospital,,,,46202,172,Home,,152,,,,,96144,49942,,,,,,,207,,408,56325,201119,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4936,https://health.py.gov.in/,https://covid19dashboard.py.gov.in/LabTestReport
-15/01/2021,Puducherry,,,,532468,Samples Sent,42865,489402,201,,,,,,,46207,,,,,,,,,,,,,,,,,207,,408,,,,,,,,,,,,,,,,,,https://health.py.gov.in/,https://covid19dashboard.py.gov.in/LabTestReport
-16/01/2021,Puducherry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://health.py.gov.in/,https://covid19dashboard.py.gov.in/LabTestReport
-17/01/2021,Puducherry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15/01/2021,Puducherry,,,,532468,Samples Sent,42865,489402,201,,118,Hospital,,,,46207,176,Home,,160,,,,,96170,49963,,,,,,,207,,408,56305,201069,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4970,https://health.py.gov.in/,https://covid19dashboard.py.gov.in/LabTestReport
+16/01/2021,Puducherry,,,,534617,Samples Sent,42881,491694,42,,,,,,,46199,,,,,,,,,,,,,,,,,207,,408,,,,,,,,,,,,,,,,,,https://health.py.gov.in/,https://covid19dashboard.py.gov.in/LabTestReport
+17/01/2021,Puducherry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://health.py.gov.in/,https://covid19dashboard.py.gov.in/LabTestReport
 02/04/2020,Punjab,,,,1434,Samples Sent,37,,1397,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/kbssidhu1961/status/1245680244658339841/photo/1,,http://covaprod.punjab.gov.in/covid-response.html?language=e
 08/04/2020,Punjab,,,,2937,Samples Sent,106,2614,217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/kbssidhu1961/status/1247878360966901763/photo/1,,
 09/04/2020,Punjab,,,,3192,Samples Sent,130,2777,285,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://pbhealth.gov.in/Media%20bulletin%20-%2009-04-2020.pdf,,
@@ -7259,8 +7260,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Punjab,,,,4158855,Samples Sent,,,,,,,,,,,,,,,,,,,,,,,9,94,,408,207,,,800476,20210,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4884,http://diprpunjab.gov.in/?q=press-release,http://covaprod.punjab.gov.in/covid-response.html?language=e
 14/01/2021,Punjab,,,,4177959,Samples Sent,,,,,,,,,,,,,,,,,,,,,,,9,99,,408,207,,,800476,20210,,,,,,,,,,,,,,,,http://diprpunjab.gov.in/?q=press-release,http://covaprod.punjab.gov.in/covid-response.html?language=e
 15/01/2021,Punjab,,,,4197346,Samples Sent,,,,,,,,,,,,,,,,,,,,,,,13,88,,408,207,,,800476,20210,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4929,http://diprpunjab.gov.in/?q=press-release,http://covaprod.punjab.gov.in/covid-response.html?language=e
-16/01/2021,Punjab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://diprpunjab.gov.in/?q=press-release,http://covaprod.punjab.gov.in/covid-response.html?language=e
-17/01/2021,Punjab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Punjab,,,,4218130,Samples Sent,,,,,,,,,,,,,,,,,,,,,,,13,82,,408,207,,,800476,20210,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4959,http://diprpunjab.gov.in/?q=press-release,http://covaprod.punjab.gov.in/covid-response.html?language=e
+17/01/2021,Punjab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://diprpunjab.gov.in/?q=press-release,http://covaprod.punjab.gov.in/covid-response.html?language=e
 05/04/2020,Rajasthan,,,,12279,Reports Received,260,11439,580,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.rajswasthya.nic.in/,,
 07/04/2020,Rajasthan,,,,17638,Reports Received,363,16401,874,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 08/04/2020,Rajasthan,,,,17638,Reports Received,363,16401,874,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.rajswasthya.nic.in/,,
@@ -7546,8 +7547,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Rajasthan,,,,5533802,Reports Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/airnews_jaipur/status/1349341300739375108?s=20,http://rajswasthya.nic.in/,
 14/01/2021,Rajasthan,,,,5555674,Reports Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://rajswasthya.nic.in/,
 15/01/2021,Rajasthan,,,,5568441,Reports Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4927,http://rajswasthya.nic.in/,https://twitter.com/airnews_jaipur/status/1349341300739375108?s=20
-16/01/2021,Rajasthan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://rajswasthya.nic.in/,
-17/01/2021,Rajasthan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Rajasthan,,,,5591844,Reports Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4953,http://rajswasthya.nic.in/,https://twitter.com/airnews_jaipur/status/1349341300739375108?s=20
+17/01/2021,Rajasthan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://rajswasthya.nic.in/,
 04/05/2020,Sikkim,,,,170,Samples Sent,,169,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://covid19sikkim.org/,,
 05/05/2020,Sikkim,,,,181,Samples Sent,0,171,10,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://covid19sikkim.org/,,
 06/05/2020,Sikkim,,,,189,Samples Sent,0,189,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://covid19sikkim.org/,,
@@ -7792,8 +7793,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Sikkim,55826,15583,,71409,Samples Sent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4883,https://covid19sikkim.org/,
 14/01/2021,Sikkim,56002,15624,,71626,Samples Sent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4894,https://covid19sikkim.org/,
 15/01/2021,Sikkim,56166,15666,,71832,Samples Sent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4928,https://covid19sikkim.org/,
-16/01/2021,Sikkim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://covid19sikkim.org/,
-17/01/2021,Sikkim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Sikkim,56314,15724,,72038,Samples Sent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4956,https://covid19sikkim.org/,
+17/01/2021,Sikkim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://covid19sikkim.org/,
 03/04/2020,Tamil Nadu,,,,3684,Samples Sent,411,2789,484,,,,,,,,,,,,,,,,,,,,,,,,3044,,13323,,,,,,,,,,,,,,,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-03-04-20-COVID-19-6-PM.pdf,,
 08/04/2020,Tamil Nadu,,,,5305,Samples Sent,690,4414,201,,,,,,,,,,,,,,,,,,,,,,,,3371,,22049,,,,,,,,,,,,,,,,,https://stopcorona.tn.gov.in/,,
 09/04/2020,Tamil Nadu,,,,7267,Samples Sent,834,5824,485,,213,Government,,,,,,,,,,,,,,,,,,,,,3371,,29074,,,,,,,,,,,,,,,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin09.04.20-5-Pages-English-173-KB.pdf,,
@@ -8078,8 +8079,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Tamil Nadu,15008259,,,15008259,Samples Sent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,500639,327614,34,,,,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-13-01-21-COVID-19-6-PM.pdf,https://stopcorona.tn.gov.in/daily-bulletin/,
 14/01/2021,Tamil Nadu,15068940,,,15068940,Samples Sent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,501048,327870,34,,,,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-14.01.2021-15-Pages-English-428-KB.pdf,https://stopcorona.tn.gov.in/daily-bulletin/,
 15/01/2021,Tamil Nadu,15124787,,,15124787,Samples Sent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,501437,328102,34,,,,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-15.01.2021-15-Pages-English-596-KB.pdf,https://stopcorona.tn.gov.in/daily-bulletin/,
-16/01/2021,Tamil Nadu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://stopcorona.tn.gov.in/daily-bulletin/,
-17/01/2021,Tamil Nadu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Tamil Nadu,15177094,,,15177094,Samples Sent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,501808,328341,34,,,,,,https://stopcorona.tn.gov.in/wp-content/uploads/2021/01/Media-Bulletin-16.01.2021-14-Pages-English-415-KB.pdf%22,https://stopcorona.tn.gov.in/daily-bulletin/,
+17/01/2021,Tamil Nadu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://stopcorona.tn.gov.in/daily-bulletin/,
 19/04/2020,Telangana,,,,14962,Samples Collected,858,14104,768,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/indiacovid/2688?single,,
 28/04/2020,Telangana,,,,19063,Tested,1009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.thehindu.com/news/national/telangana/accuracy-of-tests-more-in-telangana-eatala/article31456895.ece,,
 29/04/2020,Telangana,,,,19278,Tested,1016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://124.124.103.93/COVID/home.htm,https://covid19.telangana.gov.in/,
@@ -8296,7 +8297,7 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 14/01/2021,Telangana,,,,7379538,Tested,,,588,,,,,,,,2487,All Included,,,,,,,,,,,,,,,,,,,,,,,,,Cumulative,60.64%,39.37%,,,,,,,https://twitter.com/IPRTelangana/status/1349577849775132672/photo/3,https://covid19.telangana.gov.in/,https://twitter.com/drgsrao/status/1348472840476008456?s=20
 15/01/2021,Telangana,,,,7399436,Tested,,,248,,,,,,,,2541,All Included,,,,,,,,,,,,,,,,,,,,,,87336,203782,,Cumulative,60.64%,39.37%,,,,,,,https://twitter.com/IPRTelangana/status/1349941686764408833?s=20,https://covid19.telangana.gov.in/,https://twitter.com/drgsrao/status/1348472840476008456?s=20
 16/01/2021,Telangana,,,,7428389,Tested,,,396,,,,,,,,2381,All Included,,,,,,,,,,,,,,,,,,,,,,87410,203957,,Cumulative,60.64%,39.37%,,,,,,,https://twitter.com/IPRTelangana/status/1350304443233828865?s=20,https://covid19.telangana.gov.in/,https://twitter.com/drgsrao/status/1348472840476008456?s=20
-17/01/2021,Telangana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17/01/2021,Telangana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://covid19.telangana.gov.in/,https://twitter.com/drgsrao/status/1348472840476008456?s=20
 11/04/2020,Tripura,,,,337,Tested,2,335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://m.facebook.com/story.php?story_fbid=2415546905213637&id=632536300181382,,
 15/04/2020,Tripura,,,,738,Tested,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.facebook.com/bjpbiplab/posts/2424173307684330,,
 16/04/2020,Tripura,,,,762,Tested,2,760,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/indiacovid/2466,,
@@ -8561,7 +8562,7 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 14/01/2021,Tripura,,,,596668,Tested,33317,563351,,,,,,,,,,,,,84536,71,All Included,,,84465,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4914,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,
 15/01/2021,Tripura,,,,597659,Tested,33322,564337,,,,,,,,,,,,,84538,55,All Included,,,84483,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4920,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,
 16/01/2021,Tripura,,,,598570,Tested,33326,565244,,,,,,,,,,,,,84539,48,All Included,,,84539,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/4946,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,
-17/01/2021,Tripura,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17/01/2021,Tripura,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,
 05/04/2020,Uttar Pradesh,,,,5255,Samples Sent,278,4796,181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WA circular :/,,
 05/04/2020,Uttar Pradesh,,,,5255,Samples Sent,278,4796,179,,3927,Institutional,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.youtube.com/channel/UC27FroHf6MNL8AONmhHMFGw,
 09/04/2020,Uttar Pradesh,,,,8402,Samples Sent,410,7898,94,,8671,Institutional,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://t.me/c/1428198946/1789,https://www.youtube.com/channel/UC27FroHf6MNL8AONmhHMFGw,
@@ -8845,8 +8846,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Uttar Pradesh,,,,25707811,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/ShishirGoUP/status/1349323241177796611?s=20,https://twitter.com/UPGovt/status/1335924879594409985?s=20,https://www.youtube.com/channel/UC27FroHf6MNL8AONmhHMFGw
 14/01/2021,Uttar Pradesh,,,,25841533,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/ShishirGoUP/status/1349679290967707649?s=20,https://twitter.com/UPGovt/status/1335924879594409985?s=20,https://www.youtube.com/channel/UC27FroHf6MNL8AONmhHMFGw
 15/01/2021,Uttar Pradesh,,,,25963058,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/ShishirGoUP/status/1350034509090021378?s=20,https://twitter.com/UPGovt/status/1335924879594409985?s=20,https://www.youtube.com/channel/UC27FroHf6MNL8AONmhHMFGw
-16/01/2021,Uttar Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/UPGovt/status/1335924879594409985?s=20,https://www.youtube.com/channel/UC27FroHf6MNL8AONmhHMFGw
-17/01/2021,Uttar Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Uttar Pradesh,,,,26086641,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/ShishirGoUP/status/1350410356154224643?s=20,https://twitter.com/UPGovt/status/1335924879594409985?s=20,https://www.youtube.com/channel/UC27FroHf6MNL8AONmhHMFGw
+17/01/2021,Uttar Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/UPGovt/status/1335924879594409985?s=20,https://www.youtube.com/channel/UC27FroHf6MNL8AONmhHMFGw
 02/04/2020,Uttarakhand,,,,678,Samples Sent,7,554,117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.facebook.com/UKMedicalHealth/photos/a.1666257713623931/2556543367928690/?type=3&theater,,
 07/04/2020,Uttarakhand,,,,1289,Samples Sent,32,1092,165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 09/04/2020,Uttarakhand,,,,1531,Samples Sent,35,1235,261,,1637,Institutional,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://health.uk.gov.in/files/Health_Bulletin__Uttarakhand_Novel_Corona_Virus_9_April_2020_8.00PM.pdf,,
@@ -9131,8 +9132,8 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,Uttarakhand,,,,1939315,Tested,,1845145,11301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://health.uk.gov.in/files/2021.01.13_Health_Bulletin.pdf,https://health.uk.gov.in/pages/display/140-novel-corona-virus-guidelines-and-advisory-,https://twitter.com/DDnews_dehradun/status/1342466017054715906/photo/2
 14/01/2021,Uttarakhand,,,,1947524,Tested,,1853200,9577,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/DDnews_dehradun/status/1349699200825528321?s=20,https://health.uk.gov.in/pages/display/140-novel-corona-virus-guidelines-and-advisory-,
 15/01/2021,Uttarakhand,,,,1958238,Tested,,1863773,12310,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/DDnews_dehradun/status/1350063794001592322?s=20,https://health.uk.gov.in/pages/display/140-novel-corona-virus-guidelines-and-advisory-,
-16/01/2021,Uttarakhand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://health.uk.gov.in/pages/display/140-novel-corona-virus-guidelines-and-advisory-,
-17/01/2021,Uttarakhand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,Uttarakhand,,,,1974851,Tested,,1880160,11897,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://twitter.com/DDnews_dehradun/status/1350422799328837637?s=20,https://health.uk.gov.in/pages/display/140-novel-corona-virus-guidelines-and-advisory-,
+17/01/2021,Uttarakhand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://health.uk.gov.in/pages/display/140-novel-corona-virus-guidelines-and-advisory-,
 01/04/2020,West Bengal,,,,659,Tested,37,568,54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_01.04_.2020_.pdf,,
 04/04/2020,West Bengal,,,,1042,Tested,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 06/04/2020,West Bengal,,,,1301,Tested,,,,6889,,Institutional,4010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_06.04_.2020(1)_.pdf,,
@@ -9419,5 +9420,5 @@ Updated On,State,"RT-PCR Test(Includes TrueNat,CBNAAT,CRISPR)",RAT(Rapid Antigen
 13/01/2021,West Bengal,4089058,3438886,,7527944,Tested,,,,,,,1206167,72400,Home,,,,,,,,,,,,,,,,8.46%,2369,1279,,12840,2796262,4195040,,,,,,,,,,,,,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_13th_JANUARY_REPORT_FINAL1.pdf,https://www.wbhealth.gov.in/pages/corona/bulletin,
 14/01/2021,West Bengal,4107591,3452970,,7560561,Tested,,,,,,,1212008,71914,Home,,,,,,,,,,,,,,,,8.21%,2369,1279,,12840,2798262,4205040,,,,,,,,,,,,,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_14th_JANUARY_REPORT_FINAL.pdf,https://www.wbhealth.gov.in/pages/corona/bulletin,
 15/01/2021,West Bengal,4126841,3464280,,7591121,Tested,,,,,,,1289302,71439,Home,,,,,,,,,,,,,,,,8.20%,2369,1279,,12840,2800262,4215040,,,,,,,,,,,,,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_15th_JANUARY_REPORT_FINAL.pdf,https://www.wbhealth.gov.in/pages/corona/bulletin,
-16/01/2021,West Bengal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.wbhealth.gov.in/pages/corona/bulletin,
-17/01/2021,West Bengal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16/01/2021,West Bengal,4145100,3476032,,7621132,Tested,,,,,,,1223775,70959,Home,,,,,,,,,,,,,,,,7.65%,2349,1279,,12440,2802262,4225040,,,,,,,,,,,,,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_16th_JANUARY_REPORT_FINAL.pdf,https://www.wbhealth.gov.in/pages/corona/bulletin,
+17/01/2021,West Bengal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.wbhealth.gov.in/pages/corona/bulletin,
